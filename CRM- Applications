@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T15:18:36.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.2" etag="ctkx8MT9u2jNbXsotqRY" type="github"><diagram id="6nT_r1CXmg2CQYy8vw42">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-30T15:26:36.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bcTO9m5WbIvyy0vDC0hb" version="16.1.2" type="github">
+  <diagram id="6nT_r1CXmg2CQYy8vw42" name="Page-1">
+    <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xH8ZaYe7iAa6eKjsnZM9-1" value="&lt;div style=&quot;direction: rtl&quot;&gt;1 .לקוח המעוניין לרכוש את הבדיקה של MyGenes ,יכול לרכוש את הבדיקה בין השאר, ישירות דרך&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;האתר. ברכישה דרך האתר על הלקוח למלא את פרטיו האישיים, לאחר מכן את פרטי המשלוח&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;והתשלום.&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;לאחר הרכישה, מתבצעות הפעולות הבאות במערכת ה- CRM:&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- המרת ליד )מתעניין( ללקוח )Client)&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- פתיחת ״לקוח חדש״ בהתאם לפרטים שהוזנו באתר.&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- שיוך לקוח לנציג המכירות )במקרה הזה - אתר הבית(&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- פתיחת בקשה למשלוח ערכה לחברת המשלוחים.&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- פתיחת בקשה לבדיקה במעבדה הגנטית של ביה״ח הדסה&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- משלוח חשבונית רכישה של הלקוח&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- משלוח הודעת דוא״ל על הצטרפות&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-1040" width="490" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xH8ZaYe7iAa6eKjsnZM9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-990" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xH8ZaYe7iAa6eKjsnZM9-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-830" as="sourcePoint" />
+            <mxPoint x="440" y="-900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xH8ZaYe7iAa6eKjsnZM9-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="-820" as="sourcePoint" />
+            <mxPoint x="220" y="-900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

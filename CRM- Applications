@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T15:34:32.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yV4aAopeJO1mq6J412Sf" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T15:35:37.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-JG6oTZv6Fd-9C7irm-G" version="16.1.2" type="github">
   <diagram id="6nT_r1CXmg2CQYy8vw42" name="Page-1">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="xH8ZaYe7iAa6eKjsnZM9-1" value="&lt;div style=&quot;direction: rtl&quot;&gt;1 .לקוח המעוניין לרכוש את הבדיקה של MyGenes ,יכול לרכוש את הבדיקה בין השאר, ישירות דרך&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;האתר. ברכישה דרך האתר על הלקוח למלא את פרטיו האישיים, לאחר מכן את פרטי המשלוח&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;והתשלום.&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;לאחר הרכישה, מתבצעות הפעולות הבאות במערכת ה- CRM:&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- המרת ליד )מתעניין( ללקוח )Client)&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- פתיחת ״לקוח חדש״ בהתאם לפרטים שהוזנו באתר.&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- שיוך לקוח לנציג המכירות )במקרה הזה - אתר הבית(&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- פתיחת בקשה למשלוח ערכה לחברת המשלוחים.&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- פתיחת בקשה לבדיקה במעבדה הגנטית של ביה״ח הדסה&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- משלוח חשבונית רכישה של הלקוח&lt;/div&gt;&lt;div style=&quot;direction: rtl&quot;&gt;- משלוח הודעת דוא״ל על הצטרפות&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="-660" width="490" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="xH8ZaYe7iAa6eKjsnZM9-2" value="Frontend&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="xH8ZaYe7iAa6eKjsnZM9-2" value="Frontend (Web page)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="20" y="-1040" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xH8ZaYe7iAa6eKjsnZM9-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.109;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.113;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xH8ZaYe7iAa6eKjsnZM9-5" target="xH8ZaYe7iAa6eKjsnZM9-2">
@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xH8ZaYe7iAa6eKjsnZM9-5" value="Backend&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xH8ZaYe7iAa6eKjsnZM9-5" value="Backend (CRM application)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="20" y="-830" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xH8ZaYe7iAa6eKjsnZM9-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.109;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.113;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
